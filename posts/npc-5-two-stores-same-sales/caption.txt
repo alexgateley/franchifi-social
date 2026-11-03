@@ -1,0 +1,13 @@
+Two stores, same sales. One is quietly losing money.
+
+Example numbers: store 4 and store 9 both sold $25,000 this week and both spent $7,500 on food. Store 4 spent $7,250 on labor; store 9 spent $8,750.
+
+Prime cost: 59% at store 4, 65% at store 9. That's $1,500 a week, $78,000 a year, from one store.
+
+If you own a group of franchise stores, the group total never shows it. Only the store-by-store number does.
+
+Education only; not accounting, tax or legal advice. Talk to your CPA.
+
+Franchifi: automated books, labor and per-store profit for multi-store owners. Franchifi is in pilot. franchifi.com
+
+#franchiseowner #multiunitfranchisee #primecost #laborcost #restaurantowner

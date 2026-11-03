@@ -1,0 +1,17 @@
+Prime cost in 30 seconds.
+
+Example numbers for one store, one week:
+Sales: $25,000
+Cost of goods (food, packaging, drinks): $7,500
+Total labor (wages, overtime, payroll taxes, benefits): $7,800
+$7,500 + $7,800 = $15,300. Divided by $25,000 = 61.2%.
+
+Many operators aim for roughly 55 to 65 percent, depending on the format. If you own more than one store, do it weekly, store by store.
+
+Sources for the definition and range: Restaurant365, "How to Calculate Prime Cost in a Restaurant", and Mirus, "How to Calculate Restaurant Prime Cost".
+
+Education only; not accounting, tax or legal advice. Talk to your CPA.
+
+Franchifi: automated books, labor and per-store profit for multi-store owners. Franchifi is in pilot. franchifi.com
+
+#primecost #franchiseowner #foodcost #restaurantowner #multiunitfranchisee
